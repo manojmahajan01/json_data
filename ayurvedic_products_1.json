@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Ashwagandha Powder",
+    "category": "Ayurvedic Product",
+    "price": 105,
+    "description": "Natural Ashwagandha Powder useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 2,
+    "name": "Triphala Churna",
+    "category": "Ayurvedic Product",
+    "price": 110,
+    "description": "Natural Triphala Churna useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 3,
+    "name": "Brahmi Capsules",
+    "category": "Ayurvedic Product",
+    "price": 115,
+    "description": "Natural Brahmi Capsules useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 4,
+    "name": "Shatavari Powder",
+    "category": "Ayurvedic Product",
+    "price": 120,
+    "description": "Natural Shatavari Powder useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 5,
+    "name": "Neem Tablets",
+    "category": "Ayurvedic Product",
+    "price": 125,
+    "description": "Natural Neem Tablets useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 6,
+    "name": "Tulsi Drops",
+    "category": "Ayurvedic Product",
+    "price": 130,
+    "description": "Natural Tulsi Drops useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 7,
+    "name": "Chyawanprash",
+    "category": "Ayurvedic Product",
+    "price": 135,
+    "description": "Natural Chyawanprash useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 8,
+    "name": "Giloy Juice",
+    "category": "Ayurvedic Product",
+    "price": 140,
+    "description": "Natural Giloy Juice useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 9,
+    "name": "Amla Candy",
+    "category": "Ayurvedic Product",
+    "price": 145,
+    "description": "Natural Amla Candy useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 10,
+    "name": "Aloe Vera Juice",
+    "category": "Ayurvedic Product",
+    "price": 150,
+    "description": "Natural Aloe Vera Juice useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 11,
+    "name": "Arjuna Capsules",
+    "category": "Ayurvedic Product",
+    "price": 155,
+    "description": "Natural Arjuna Capsules useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 12,
+    "name": "Moringa Powder",
+    "category": "Ayurvedic Product",
+    "price": 160,
+    "description": "Natural Moringa Powder useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 13,
+    "name": "Punarnava Tablets",
+    "category": "Ayurvedic Product",
+    "price": 165,
+    "description": "Natural Punarnava Tablets useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 14,
+    "name": "Gokshura Capsules",
+    "category": "Ayurvedic Product",
+    "price": 170,
+    "description": "Natural Gokshura Capsules useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 15,
+    "name": "Turmeric Powder",
+    "category": "Ayurvedic Product",
+    "price": 175,
+    "description": "Natural Turmeric Powder useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 16,
+    "name": "Manjistha Churna",
+    "category": "Ayurvedic Product",
+    "price": 180,
+    "description": "Natural Manjistha Churna useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 17,
+    "name": "Himalaya Liv.52",
+    "category": "Ayurvedic Product",
+    "price": 185,
+    "description": "Natural Himalaya Liv.52 useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 18,
+    "name": "Karela Jamun Juice",
+    "category": "Ayurvedic Product",
+    "price": 190,
+    "description": "Natural Karela Jamun Juice useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 19,
+    "name": "Dashmoolarishta",
+    "category": "Ayurvedic Product",
+    "price": 195,
+    "description": "Natural Dashmoolarishta useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 20,
+    "name": "Sitopaladi Churna",
+    "category": "Ayurvedic Product",
+    "price": 200,
+    "description": "Natural Sitopaladi Churna useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 21,
+    "name": "Kumkumadi Oil",
+    "category": "Ayurvedic Product",
+    "price": 205,
+    "description": "Natural Kumkumadi Oil useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 22,
+    "name": "Jatamansi Powder",
+    "category": "Ayurvedic Product",
+    "price": 210,
+    "description": "Natural Jatamansi Powder useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 23,
+    "name": "Hingvastak Churna",
+    "category": "Ayurvedic Product",
+    "price": 215,
+    "description": "Natural Hingvastak Churna useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 24,
+    "name": "Ayush Kwath",
+    "category": "Ayurvedic Product",
+    "price": 220,
+    "description": "Natural Ayush Kwath useful in traditional Ayurvedic wellness."
+  },
+  {
+    "id": 25,
+    "name": "Haritaki Tablets",
+    "category": "Ayurvedic Product",
+    "price": 225,
+    "description": "Natural Haritaki Tablets useful in traditional Ayurvedic wellness."
+  }
+]
